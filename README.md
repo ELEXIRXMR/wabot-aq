@@ -1,6 +1,7 @@
+aku cuman sekedar membuat agar bot nya lebih nyaman aku memakainya thks untuk pak nurtomo
 # wabot-aq
 Simple WhatsApp Bot
-
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/ELEXIRXMR/wabot-aq/tree/master)
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
